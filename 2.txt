@@ -1,1 +1,2 @@
 this is new branch feature1 how are you all
+adding changes to be detected by poll scm
